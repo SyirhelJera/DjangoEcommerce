@@ -101,6 +101,10 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
+array([[1.        , 1.66666667], # center0
+       [0.33333333, 1.        ], # center1
+       [1.66666667, 1.        ], # center2
+       [1.        , 0.33333333]])# center3
 
 # Internationalization
 # https://docs.djangoproject.com/en/3.0/topics/i18n/
